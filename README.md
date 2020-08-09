@@ -1,3 +1,3 @@
 # HackerRank
 
-A collection of solutions to hackerRank challenges
+A collection of solutions my to hackerRank challenges
